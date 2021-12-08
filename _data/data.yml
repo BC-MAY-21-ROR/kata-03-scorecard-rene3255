@@ -7,21 +7,21 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: René Eustaquio Silva Carrillo # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: rene@brightcoders.com
+  phone: 31219777601
   website: # No agregar http://
   linkedin: brightcoders
   github: brightcoders
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@guazumaparlante'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars:René Silva
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
@@ -55,7 +55,7 @@ career-profile:
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Applied Scientist full-time at AWS
-    university: Germany
+    university: Universidad of Colima
     time: 2020 Oct - current
     details: |
 
@@ -86,8 +86,8 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
+  - role: Junior Developer
+    time: 2021 - Present
     company: Startup Hubs, San Francisco
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
